@@ -1,0 +1,166 @@
+ header {
+    background-color: #1F2937;
+    font-size: 24px;
+    color: #F9FAF8;
+    padding-left: 10px;
+    font-weight: bold;
+ }
+
+ .h {
+   background-color: #1F2937;
+   font-size: 18px;
+   color: #E5E7EB;
+   padding-right: 10px;
+ }
+
+ .second {
+   background-color: #1F2937;
+   display: flex;
+   justify-content: center;
+   padding-top: 20px;
+   padding-bottom: 40px;
+   
+ }
+
+ .quote {
+  background-color: lightgrey;
+ }
+
+ .ad {
+  background-color: #3882F6;
+ }
+
+ footer {
+  background-color: #1F2937;
+ }
+
+ .main-text {
+  font-size: 48px;
+  font-weight: bolder;
+  color: #F9FAF8;
+ }
+
+ .info {
+  font-size: 18px;
+  color: #E5E7EB;
+  display: flex;
+  flex-direction: column;
+  max-width: 400px;
+  
+ }
+
+ button {
+  
+ }
+
+ .header {
+  display: flex;
+  
+  background-color: #1F2937;
+  justify-content: space-between;
+  padding-top: 10px;
+ }
+
+ .l {
+  display: flex;
+  flex-direction: row;
+  padding-right: 10px;
+ }
+
+ .second img {
+  max-width: 400px;
+  padding-left: 50px;
+  padding-bottom: 20px;
+ }
+
+ .button-1 {
+  background-color: #3882F6;
+  color: white;
+  font-weight: bold;
+ }
+
+ p {
+  text-align: center;
+  font-weight: bold;
+  font-size: 30px;
+ }
+ 
+ .images {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-around;
+ }
+
+ .firstimage, .secondimage, .thirdimage, .fourthimage {
+  display: flex;
+  flex-direction: column;
+ }
+
+ .random-info img {
+  width: 400px;
+  height: 400px;
+ }
+
+ .info p {
+  font-size: 18px;
+  font-weight: lighter;
+ }
+
+ .images p {
+  font-size: 18px;
+  font-weight: lighter;
+ }
+
+ .images img {
+  border: 5px solid lightskyblue;
+
+ }
+
+ .Actual-quote {
+
+  font-style: italic;
+  
+  font-size: 36px;
+  color: #1F2937;
+ }
+
+ .Quote {
+  background-color: #E5E7EB;
+  text-align: center;
+  padding-top: 50px;
+  padding-bottom: 50px;
+
+ }
+
+ .who {
+  margin-left: 600px;
+  
+ }
+
+ .ad {
+   background-color: #3882F6;
+   width: 700px;
+   margin-left: 650px;
+   display: flex;
+   margin-top: 50px;
+   margin-bottom: 50px;
+   justify-content: center;
+   color: white;
+   padding-top: 10px;
+   padding-bottom: 10px;
+ }
+
+ .first-ad {
+  font-weight: bold;
+ }
+
+ ad {
+  padding-right: 40px;
+ }
+
+ footer {
+  color: white;
+  text-align: center;
+  padding-top: 40px;
+  padding-bottom: 40px;
+ }
